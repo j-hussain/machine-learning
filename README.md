@@ -1,2 +1,4 @@
-# machine learning
-Short projects to familiarise myself with machine learning techniques. Mainly Python, will hope to branch into developing stuff with C++.
+# Machine Learning
+
+A repo for uploading notebooks where I dive deeper into different aspects of ML as well as other packages imperative to DS (numpy, pandas, etc.)
+Primary focus on Scikit-learn, then plans to branch out into PyTorch and TF.
